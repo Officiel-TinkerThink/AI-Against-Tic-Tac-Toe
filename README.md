@@ -1,4 +1,4 @@
-# Versus-AI-Tic-Tac-Toe
+# AI-against Tic-Tac-Toe
 This Game implementing AI to play against users
 
 ## Overview
